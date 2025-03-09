@@ -1,0 +1,62 @@
+html,body {text-align:center;margin:0px auto;height:100%;font-size:0.2rem;background-color:#FFFFFF;}
+table,tr,td,div{word-break:break-all; /*支持IE，chrome，FF不支持*/
+	word-wrap:break-word;/*支持IE，chrome，FF*/
+}
+
+#index table{width:99%;border:0px;margin:0px auto;}
+#index td{width:33%;font-size:0.2rem;height:0.2rem;border:0px #efefef solid;line-height:0.2rem;}
+#index a {font-size:0.2rem;TEXT-DECORATION:none;color:#054465;}
+#index a:hover {font-size:0.2rem;color:#FF0000;TEXT-DECORATION:none;background:#EDF8FE;border:0.01rem solid #A0DBFA;}
+#index a:visited {font-size:0.2rem;color:#054465;TEXT-DECORATION:none;}
+#mulu{TEXT-DECORATION:none;vertical-align:middle;width:100%;display:inline-block;height:0.6rem;line-height:0.6rem;text-align:center;font-size:0.25rem;font-weight:bold;color:#054465;background:#f9f9f9;border:0.01rem solid #919191;}
+#next{vertical-align:middle;width:98%;display:inline-block;height:0.5rem;line-height:0.5rem;text-align:center;font-size:0.2rem;font-weight:bold;color:#054465;background:#f9f9f9;border:0.01rem solid #919191;}
+#upload{vertical-align:middle;width:35%;display:inline-block;height:0.35rem;line-height:0.35rem;text-align:center;font-size:0.2rem;font-weight:bold;color:#ff0000;background:#FFFF33;border:0.01rem solid #919191;}
+
+#index_hk table{width:99%;border:0px;margin:0px auto;}
+#index_hk td{width:49%;font-size:0.2rem;height:1.8rem;border:0.01rem #919191 solid;line-height:0.3rem;font-weight:bold;color:#054465;}
+#index_hk a {font-size:0.2rem;TEXT-DECORATION:none;color:#054465;}
+#index_hk a:hover {font-size:0.2rem;color:#FF0000;TEXT-DECORATION:none;background:#EDF8FE;border:0.01rem solid #A0DBFA;}
+#index_hk a:visited {font-size:0.2rem;color:#054465;TEXT-DECORATION:none;}
+#index_hk img{border:0;width:3rem;height:1.5rem}
+
+#shuliang table{width:99%;border:0rem;margin:0px auto;}
+#shuliang td{font-size:0.2rem;height:0.4rem;border:0.02rem #e1e1e1 solid;line-height:0.4rem;text-align:center;}
+
+#chengjiao table{width:99%;border:0rem;margin:0px auto;}
+#chengjiao td{font-size:0.18rem;height:0.4rem;border:0.01rem #e1e1e1 solid;line-height:0.4rem;}
+#chengjiao tr:nth-child(odd){background:#F4F4F4;}
+#chengjiao td:nth-child(3){color:#C00;}
+
+.btm{height:0.36rem; padding:0rem 0rem 0 0.07rem;background-color:f9f8f5;}
+.btm span{display:block; color:#333333; }
+
+/*设定按钮通用样式*/
+.anniu{border-radius:0.1rem;font-size:0.3rem;font-weight:bold;color:#8c96a0;width:1.2rem;height:0.5rem;text-shadow:1px 1px 1px #fff;border:1px solid #dce1e6;box-shadow:0 1px 2px #fff inset,0 -1px 0 #a8abae inset;background:-webkit-linear-gradient(top,#f2f3f7,#e4e8ec);background:-moz-linear-gradient(top,#f2f3f7,#e4e8ec);background:linear-gradient(top,#f2f3f7,#e4e8ec);}
+.keyword{width:3.5rem;padding-left:0.5rem;-webkit-border-radius:0.1rem;border-radius:0.1rem;padding:0.05rem;border:1px solid #cdcdcd;font-size:0.3rem;color:#333;}
+.go2top { background: url("/web/20180815124345im_/http://86661.com/img/site/gototop.png") no-repeat scroll left top transparent;bottom: 65px;color: #444444; display: none;height: 50px;margin-left: 510px;position: fixed;right: 20px;text-align: center;width: 50px;}
+.go2top:hover { background-position: -50px top;}
+
+#search table{width:99%;border:0px;margin:0px auto;}
+#search td{font-size:0.22rem;height:0.3rem;border-bottom:1px #e1e1e1 solid;line-height:0.3rem;color:#000000;text-align:left;}
+#search a {font-size:0.2rem;TEXT-DECORATION:none;color:#054465;}
+#search img{border:0;width:2rem;height:1rem;padding:0.1rem}
+/*
+     FILE ARCHIVED ON 12:43:45 Aug 15, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:20:10 Mar 09, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.241
+  exclusion.robots: 0.039
+  exclusion.robots.policy: 0.017
+  esindex: 0.022
+  cdx.remote: 52.935
+  LoadShardBlock: 609.236 (3)
+  PetaboxLoader3.resolve: 1139.237 (5)
+  PetaboxLoader3.datanode: 522.507 (5)
+  load_resource: 1083.718 (2)
+*/
